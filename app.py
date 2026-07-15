@@ -41,7 +41,7 @@ else:
     st.error(f"### ⚠️ Perte : {benefice_net:.2f} €")
 
 st.caption(f"Détail des frais déduits : {total_frais:.2f} €")
-write("---")
+st.write("---")
 st.subheader("📱 Rejoignez la communauté !")
 
 # Création de colonnes pour aligner les boutons des réseaux
