@@ -41,3 +41,19 @@ else:
     st.error(f"### ⚠️ Perte : {benefice_net:.2f} €")
 
 st.caption(f"Détail des frais déduits : {total_frais:.2f} €")
+st.écrire("---")
+st.sous_titre("📱 Rejoignez la communauté !")
+
+# Création de colonnes pour aligner les boutons des réseaux
+col1, col2, col3, col4, col5 = st.colonnes(5)
+
+with col1:
+    st.bouton_lien("🐦 Twitter", "https://twitter.com/TON_COMPTE")
+with col2:
+    st.bouton_lien("🎥 YouTube", "https://youtube.com/@TON_COMPTE")
+with col3:
+    st.bouton_lien("📸 Instagram", "https://instagram.com/TON_COMPTE")
+with col4:
+    st.bouton_lien("🎵 TikTok", "https://tiktok.com/@TON_COMPTE")
+with col5:
+    st.bouton_lien("💬 Discord", "https://discord.gg/TON_INVITATION")
