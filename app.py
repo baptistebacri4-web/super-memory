@@ -52,7 +52,7 @@ with col1:
 with col2:
     st.link_button("🎥 YouTube", "https://youtube.com/@TON_COMPTE")
 with col3:
-    st.link_button("📸 Instagram", "https://instagram.com/TON_COMPTE")
+    st.link_button("📸 Instagram", "https://www.instagram.com/baptistebacri?igsh=MTFvY2F2NnF0eW11dA==")
 with col4:
     st.link_button("🎵 TikTok", "https://tiktok.com/@TON_COMPTE")
 with col5:
