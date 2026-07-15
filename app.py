@@ -48,7 +48,7 @@ st.subheader("📱 Rejoignez la communauté !")
 col1, col2, col3, col4, col5 = st.columns(5)
 
 with col1:
-    st.link_button("🐦 Twitter", "https://twitter.com/TON_COMPTE")
+    st.link_button("✈️ Telegram", "https://t.me/TON_PSEUDO_OU_CANAL")
 with col2:
     st.link_button("🎥 YouTube", "https://youtube.com/@TON_COMPTE")
 with col3:
