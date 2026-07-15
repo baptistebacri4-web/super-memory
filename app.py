@@ -41,7 +41,7 @@ else:
     st.error(f"### ⚠️ Perte : {benefice_net:.2f} €")
 
 st.caption(f"Détail des frais déduits : {total_frais:.2f} €")
-st.write("---")
+write("---")
 st.subheader("📱 Rejoignez la communauté !")
 
 # Création de colonnes pour aligner les boutons des réseaux
@@ -50,7 +50,7 @@ col1, col2, col3, col4, col5 = st.columns(5)
 with col1:
     st.link_button("✈️ Telegram", "https://t.me/TON_PSEUDO_OU_CANAL")
 with col2:
-    st.link_button("🎥 YouTube", "https://youtube.com/@TON_COMPTE")
+    st.link_button("🐦 Twitter", "https://twitter.com/TON_COMPTE")
 with col3:
     st.link_button("📸 Instagram", "https://www.instagram.com/baptistebacri?igsh=MTFvY2F2NnF0eW11dA==")
 with col4:
