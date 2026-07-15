@@ -50,7 +50,7 @@ col1, col2, col3, col4, col5 = st.columns(5)
 with col1:
     st.link_button("✈️ Telegram", "https://t.me/Baptiste202420")
 with col2:
-    st.link_button("🐦 Twitter", "https://twitter.com/TON_COMPTE")
+        st.link_button("🐦 Twitter", "https://x.com/bbacri2")  # Mis à jour avec ton compte !
 with col3:
     st.link_button("📸 Instagram", "https://www.instagram.com/baptistebacri?igsh=MTFvY2F2NnF0eW11dA==")
 with col4:
