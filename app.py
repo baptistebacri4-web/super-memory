@@ -56,4 +56,4 @@ with col3:
 with col4:
         st.link_button("🎵 TikTok", "https://www.tiktok.com/@bbenallou0?_r=1&_t=ZN-983TROLjC34")
 with col5:
-    st.link_button("💬 Discord", "https://discord.gg/TON_INVITATION")
+    st.link_button("💬 Discord", "https://discord.gg/FM7vXYRHS")
