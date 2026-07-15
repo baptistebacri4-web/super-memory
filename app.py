@@ -54,6 +54,6 @@ with col2:
 with col3:
     st.link_button("📸 Instagram", "https://www.instagram.com/baptistebacri?igsh=MTFvY2F2NnF0eW11dA==")
 with col4:
-    st.link_button("🎵 TikTok", "https://tiktok.com/@TON_COMPTE")
+        st.link_button("🎵 TikTok", "https://www.tiktok.com/@bbenallou0?_r=1&_t=ZN-983TROLjC34")
 with col5:
     st.link_button("💬 Discord", "https://discord.gg/TON_INVITATION")
